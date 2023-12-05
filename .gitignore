@@ -1,0 +1,21 @@
+# Dataset
+# dataset
+# ├── training
+# ├── testing
+# ├── validation
+dataset
+
+# Preprocessed MotionCNN dataset
+# motioncnn
+# ├── preprocessed
+# │   ├── training
+# │   ├── testing
+# │   ├── validation
+motioncnn/preprocessed
+
+# Virtual Environments
+.venv
+
+# Checkpoints
+motioncnn/checkpoints
+
